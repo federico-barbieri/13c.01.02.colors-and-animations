@@ -1,4 +1,4 @@
-import {animate, timeline} from "https://cdn.skypack.dev/motion";
+import {animate, timeline, inView} from "https://cdn.skypack.dev/motion";
 
 
   const sequence = [

@@ -8,7 +8,7 @@
 /* Fonts */
 html {
   font-family: "Poppins", sans-serif;
-  font-size: 1.2em;
+  font-size: 16px;
   --primary: #d8d5d7;
   --secondary: #171716;
   --gray-dark: #949495;
@@ -18,7 +18,7 @@ html {
 @media (prefers-color-scheme: dark){
   html {
     font-family: "Poppins", sans-serif;
-    font-size: 1.2em;
+    font-size: 16px;
     --primary: #171716;
     --secondary: #d8d5d7;
     --gray-dark: #949495;
